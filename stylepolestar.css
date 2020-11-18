@@ -1,0 +1,59 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    background-image: url(fon-seryy-chertezh-dugi-astro.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    background-size: cover;
+    margin: 0%;
+color: white;
+    
+}
+h1 {
+font-size: 50px;
+
+}
+#button-bar {
+    position: fixed;
+    top: 0;
+    text-align: center;
+    background-color: rgb(129, 27, 27);
+    background: linear-gradient(0deg, rgba(43, 39, 105, 0) 11%, rgba(44, 68, 133, 0) 32%);
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0);
+    margin-bottom: 20px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: 1000px;
+
+}
+
+#content {
+    height: 1600px;
+}
+.specsimg {
+    width: 1000px;
+    length:1000px;
+    border-radius: 10px;
+}
+
+#form {
+    right: 30px;;
+}
+
+
+.auto {
+    width: 500px;
+    length: 500px;
+    border-radius: 10px;
+
+
+}
+
+#fname, #lname, #email {
+
+    text-align: center;
+}
+
+#ifname, #ilname, #iemail {
+    align-items: center;
+}
